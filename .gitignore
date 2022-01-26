@@ -1,4 +1,12 @@
 __pycache__/
 *.pyc
 *~
+*.zip
+*.bz2
+Face_Detection/shape_predictor_68_face_landmarks.dat
+Face_Enhancement/checkpoints
+Face_Enhancement/models/networks
+Global/detection_models
+Global/checkpoints
+
 
