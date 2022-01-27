@@ -1,6 +1,10 @@
 __pycache__/
 *.pyc
 *~
+*.swp
+
+# Keep large checkpoint and other files that can be seperately downloaded per
+# instructins in repo from being included in the repo
 *.zip
 *.bz2
 Face_Detection/shape_predictor_68_face_landmarks.dat
@@ -9,4 +13,6 @@ Face_Enhancement/models/networks
 Global/detection_models
 Global/checkpoints
 
+# Jupyter
+notebooks/.ipynb_checkpoints/Bring_Back_Old_Photos_No_Sratch-checkpoint.ipynb
 
