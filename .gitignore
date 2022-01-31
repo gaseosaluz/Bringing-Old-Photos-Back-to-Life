@@ -13,6 +13,7 @@ Face_Enhancement/models/networks
 Global/detection_models
 Global/checkpoints
 
+output/
 # Jupyter
 notebooks/.ipynb_checkpoints/Bring_Back_Old_Photos_No_Sratch-checkpoint.ipynb
 
